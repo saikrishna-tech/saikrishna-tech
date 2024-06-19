@@ -1,102 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sai Krishna Pothini</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 0;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-        h2 {
-            color: #555;
-            margin-bottom: 10px;
-        }
-        p {
-            margin-bottom: 10px;
-        }
-        .contact-info {
-            margin-top: 20px;
-        }
-        .contact-info a {
-            display: inline-block;
-            margin-right: 10px;
-            text-decoration: none;
-            color: #007bff;
-        }
-        .contact-info a:hover {
-            text-decoration: underline;
-        }
-        .profile-section {
-            background-color: #f9f9f9;
-            padding: 10px;
-            border-radius: 6px;
-            margin-top: 20px;
-        }
-        .profile-section p {
-            margin-bottom: 8px;
-        }
-        .profile-section ul {
-            padding-left: 20px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Hi there 👋</h1>
+# SAI KRISHNA POTHINI
 
-        <div class="profile-section">
-            <h2>About Me</h2>
-            <p>Highly motivated and results-oriented aspiring data scientist with a strong technical background and a proven track record in research, project development, and leadership. Seeking opportunities to leverage my expertise in machine learning, NLP, and data analysis.</p>
-        </div>
+- 📞 +91 8639469570
+- 📧 saikrishnapothini@gmail.com
+- 🔗 LinkedIn: [Sai Krishna Pothini](https://www.linkedin.com/in/sai-krishna-pothini-661706200)
+- 🔗 GitHub: [saikrishna-tech](https://github.com/saikrishna-tech)
 
-        <div class="profile-section">
-            <h2>Education</h2>
-            <p><strong>B. Tech in Artificial Intelligence and Data Science</strong><br>
-               Lakireddy Bali Reddy College of Engineering, 2020 – 2024<br>
-               Grade: First Class with Distinction, G.P.A of 8.72</p>
-            
-            <p><strong>Intermediate in M. P. C</strong><br>
-               Sri Chaitanya Junior College, 2018 – 2020<br>
-               Grade: First Class with Distinction, G.P.A of 9.73</p>
-        </div>
+## About Me
+Highly motivated and results-oriented aspiring data scientist with a strong technical background and a proven track record in research, project development, and leadership. I aim to leverage my expertise in machine learning, NLP, data analysis, and model deployment to drive innovative solutions in a dynamic organization.
 
-        <div class="profile-section">
-            <h2>Work Experience</h2>
-            <p><strong>Co-Founder & Technical Lead (Primary Researcher), GRIBE Technologies LLP</strong><br>
-               Jun 2023 – Present<br>
-               - Developed and Maintained a Web Platform: Utilized WordPress to build a platform www.gribe.tech.</p>
-            
-            <p><strong>NLP and Data Analyst Intern, Reliance – Jio Platforms limited</strong><br>
-               Dec 2022 – Feb 2023<br>
-               - Prepared training data by meticulously listening to 3,000 audio recordings and crafting 15,000 corresponding question-answer pairs.</p>
-        </div>
+## Work Experience
 
-        <div class="profile-section">
-            <h2>Contact Me</h2>
-            <div class="contact-info">
-                <a href="tel:+918639469570">+91 8639469570</a>
-                <a href="mailto:saikrishnapothini@gmail.com">saikrishnapothini@gmail.com</a>
-                <a href="https://www.linkedin.com/in/sai-krishna-pothini-661706200" target="_blank">LinkedIn</a>
-                <a href="https://github.com/saikrishna-tech" target="_blank">GitHub</a>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+### Co-Founder & Technical Lead, GRIBE Technologies LLP
+- Jun 2023 – Present
+- Developed and Maintained [GRIBE Technologies LLP](http://www.gribe.tech), an e-learning platform connecting students with opportunities.
+- Led research on the importance of AI & Data Science skills in the market.
+- Collaborated with EdTech companies to establish Data Science training programs and internships.
+
+### NLP and Data Analyst Intern, Reliance – Jio Platforms Ltd
+- Dec 2022 – Feb 2023
+- Prepared training data from 3,000 audio recordings, creating 15,000 question-answer pairs.
+- Contributed to a multilingual text-to-text translation model and an Audio QA system.
+
+## Education
+- **B. Tech in Artificial Intelligence and Data Science**
+  - Lakireddy Bali Reddy College of Engineering, 2020 – 2024
+  - GPA: 8.72
+
+- **Intermediate in M. P. C**
+  - Sri Chaitanya Junior College, 2018 – 2020
+  - GPA: 9.73
+
+## Skills
+- **Technical:** Python, R, SQL, TensorFlow, Keras, Flask, OpenCV
+- **Data Analysis:** NumPy, Pandas, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn, XGBoost, Deep Learning
+- **NLP:** Transformers (Hugging Face)
+- **Tools:** Git, GitHub, Tableau (Basic), Hadoop (Basic)
+
+## Certifications
+- Infosys: Machine Learning Implementation, Data Mining and Decision Making
+- Cisco: Programming Essentials in Python, Networking Essentials
+- Hacker Rank: Python (Basic), SQL (Intermediate)
+
+## Projects
+- Multimodal Hate Speech Detection with BERT
+- Driver Behavior Recognition System using CNNs
+- Crop Water Level Prediction with Machine Learning
+
+## Publications
+- Exploring Prompt Design for Image Generation with Stable Diffusion v1.4
+- Multimodal Hate Speech Detection with Fine-tuned BERT
+- Enhancing Driver Safety Through Multimodal Behavior Recognition System
+
+## Awards
+- Best Paper Award, IJEMR-SSRN Journal Publications
+- State Level Hackathon Winner
+
+## Leadership
+- Founded "GRIBE Technologies LLP", empowering 1,000+ students
+- Departmental Coordinator for College Fest "Lakshya"
+
+## Languages
+- English (Fluent), Telugu (Native)
