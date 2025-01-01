@@ -1,7 +1,6 @@
 # SAI KRISHNA POTHINI
 
-- 📞 +91 8639469570
-- 📧 saikrishnapothini@gmail.com
+- 📧 saikrishnawork7@gmail.com
 - 🔗 LinkedIn: [Sai Krishna Pothini](https://www.linkedin.com/in/sai-krishna-pothini-661706200)
 - 🔗 GitHub: [saikrishna-tech](https://github.com/saikrishna-tech)
 
