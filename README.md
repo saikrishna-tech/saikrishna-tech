@@ -3,6 +3,7 @@
 - 📧 saikrishnawork7@gmail.com
 - 🔗 LinkedIn: [Sai Krishna Pothini](https://www.linkedin.com/in/sai-krishna-pothini-661706200)
 - 🔗 GitHub: [saikrishna-tech](https://github.com/saikrishna-tech)
+- 🔗 Kaggle: [saikrishnatech](https://www.kaggle.com/saikrishnatech)
 
 ## About Me
 Highly motivated and results-oriented aspiring data scientist with a strong technical background and a proven track record in research, project development, and leadership. I aim to leverage my expertise in machine learning, NLP, data analysis, and model deployment to drive innovative solutions in a dynamic organization.
